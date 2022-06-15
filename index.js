@@ -5,3 +5,4 @@ function tablaMultiplicar(tabla, hasta){
 tablaMultiplicar(1,10);
 tablaMultiplicar(5, 10);
 
+tablaMultiplicar(5, 10);
